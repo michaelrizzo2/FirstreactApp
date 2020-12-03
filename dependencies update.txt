@@ -1,0 +1,1 @@
+sudo npm i chokidar;sudo npm install joi;sudo npm install @sideway/formula;sudo npm install @sideway/pinpoint;sudo npm install @sideway/address;
