@@ -1,0 +1,7 @@
+npm install expo-cli --global
+
+expo init myReactNativeProject
+
+expo start
+
+expo build:android
